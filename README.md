@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm Mohamed Belfaquih 👋  
 
 🚀 Passionate about problem-solving, software development, and building scalable applications.
 
